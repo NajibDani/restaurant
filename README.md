@@ -1,20 +1,10 @@
 <p align="center"></p>
 
-<p align="center">
-   <a href="https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/64475785/158384184-1fe44a59-6b68-40f5-b860-d14c51f0ce5d.svg" alt="materio-logo" width="60px" height="auto">
-   </a>
-</p>
-
 <h1 align="center">
-   <a href="https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/" target="_blank" align="center">
-      Materio - Free Bootstrap 5 HTML Laravel Admin Template
-   </a>
+      Restaurant Project
 </h1>
 
 <p align="center">Most Powerful & Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!</p>
-
-![GitHub](https://img.shields.io/github/license/themeselection/materio-bootstrap-html-laravel-admin-template-free) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/themeselection/materio-bootstrap-html-laravel-admin-template-free) ![GitHub issues](https://img.shields.io/github/issues/themeselection/materio-bootstrap-html-laravel-admin-template-free) ![GitHub closed issues](https://img.shields.io/github/issues-closed/themeselection/materio-bootstrap-html-laravel-admin-template-free) ![Twitter Follow](https://img.shields.io/twitter/follow/Theme_Selection?style=social)
 
 <kbd>[![Materio - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/materio/materio-bootstrap-laravel-admin-template-free/banner/banner.png)](https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/)</kbd>
 
