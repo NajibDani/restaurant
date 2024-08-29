@@ -8,58 +8,35 @@
 
 <kbd>[![Materio - Bootstrap 5 HTML Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/materio/materio-bootstrap-laravel-admin-template-free/banner/banner.png)](https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/)</kbd>
 
-## Introduction 🚀
-
-If you’re a developer looking for the most Powerful & comprehensive [**Free Bootstrap 5 HTML Laravel Admin Template**](https://themeselection.com/item/materio-free-bootstrap-html-laravel-admin-template/) built for developers, rich with features, and highly customizable look no further than materio. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
-
-Build premium quality applications with ease. Use our innovative **[Laravel admin template](https://themeselection.com/item/category/laravel-admin-templates/)** to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
-
-[View Demo](https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template-free/demo/)
-
 ## Installation ⚒️
 
-Installing and running materio is super easy, please Follow below steps and you will be ready to rock 🤘
+Silakan git clone repository ini. Lalu ikuti langkah berikut
 
-1. Open the terminal in your root directory of materio Laravel.
-2. Use the following command to install the composer
+1. Buka terminal
+2. Jalankan di terminal
 
 ```bash
 composer install
 ```
 
-3. Run the following command to generate the key
+3. Jalankan di terminal
 
 ```bash
-php artisan key:generate
+php artisan migrate
 ```
 
-4. By running the following command, you will be able to get all the dependencies in your **node_modules** folder:
+4. Jalankan di terminal
 
 ```bash
-yarn
+npm run dev
 ```
 
-5. To run the project, you need to run the following command in the project directory. It will compile JavaScript and Styles.
-
-```bash
-yarn dev
-```
-
-6. To serve the application, you need to run the following command in the project directory
+5. Jalankan proyek
 
 ```bash
 php artisan serve
 ```
 
-7. Now navigate to the given address, and you will see your application is running.🥳
-
-## Available Tasks 🧑‍💻
-
-**Building for Production:** If you want to run the project and make the build in the production mode then run the following command in the root directory, by default The project will continue to run in the development mode:
-
-```bash
-yarn prod
-```
 
 ## What's Included 📦
 

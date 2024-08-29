@@ -61,6 +61,8 @@ Route::get('/pages/account-settings-connections', [AccountSettingsConnections::c
 Route::get('/pages/misc-error', [MiscError::class, 'index'])->name('pages-misc-error');
 Route::get('/pages/misc-under-maintenance', [MiscUnderMaintenance::class, 'index'])->name('pages-misc-under-maintenance');
 
+// Route::get('/pages/landingpage', [AccountSettingsAccount::class, 'index'])->name('pages-account-settings-account');
+
 // authentication
 Route::get('/auth/login-basic', [LoginBasic::class, 'index'])->name('auth-login-basic');
 Route::get('/auth/register-basic', [RegisterBasic::class, 'index'])->name('auth-register-basic');
