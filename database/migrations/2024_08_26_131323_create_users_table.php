@@ -16,8 +16,8 @@ return new class extends Migration {
             $table->string('phone');
             $table->string('email');
             $table->unsignedBigInteger('id_role');
+            $table->text('password');
             $table->timestamps();
-
             $table->foreign('id_role')->references('id_role')->on('tbl_roles')->onDelete('cascade');
         });
     }

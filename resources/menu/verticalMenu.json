@@ -5,10 +5,7 @@
       "name": "Dashboards",
       "icon": "menu-icon tf-icons mdi mdi-home-outline",
       "slug": "dashboard",
-      "badge": [
-        "danger",
-        "5"
-      ],
+      "badge": ["danger", "5"],
       "submenu": [
         {
           "url": "/",
@@ -54,10 +51,7 @@
       "name": "Front Pages",
       "icon": "menu-icon tf-icons mdi mdi-flip-to-front",
       "slug": "front-pages",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ],
+      "badge": ["label-primary fs-tiny", "Pro"],
       "submenu": [
         {
           "url": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/front-pages/landing",
@@ -95,10 +89,7 @@
       "name": "Laravel CRUD",
       "icon": "menu-icon tf-icons mdi mdi-language-php",
       "slug": "laravel-example",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ],
+      "badge": ["label-primary fs-tiny", "Pro"],
       "submenu": [
         {
           "url": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/laravel/user-management",
@@ -117,10 +108,7 @@
       "icon": "menu-icon tf-icons mdi mdi-email-outline",
       "slug": "app-email",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "url": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/app/chat",
@@ -128,10 +116,7 @@
       "icon": "menu-icon tf-icons mdi mdi-message-outline",
       "slug": "app-chat",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "url": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/app/calendar",
@@ -139,10 +124,7 @@
       "icon": "menu-icon tf-icons mdi mdi-calendar-blank-outline",
       "slug": "app-calendar",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "url": "https://demos.themeselection.com/materio-bootstrap-html-laravel-admin-template/demo-1/app/kanban",
@@ -150,10 +132,7 @@
       "icon": "menu-icon tf-icons mdi mdi-view-grid-outline",
       "slug": "app-kanban",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "name": "Account Settings",
@@ -398,10 +377,7 @@
       "name": "Form Validation",
       "slug": "form-validation",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "url": "tables/basic",
@@ -415,10 +391,7 @@
       "name": "Datatables",
       "slug": "tables-datatables",
       "target": "_blank",
-      "badge": [
-        "label-primary fs-tiny",
-        "Pro"
-      ]
+      "badge": ["label-primary fs-tiny", "Pro"]
     },
     {
       "menuHeader": "Misc"
