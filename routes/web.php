@@ -45,6 +45,7 @@ use App\Http\Controllers\user_interface\TooltipsPopovers;
 use App\Http\Controllers\user_interface\Typography;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MenuController;
 
 
 
@@ -128,3 +129,11 @@ Route::get('/list-user', [UserController::class, 'list'])->name('user.list');
 Route::get('/edit-user/{id}',[UserController::class, 'edit'])->name('user.edit');
 Route::put('/edit-user/{id}', [UserController::class, 'update'])->name('user.update');
 Route::delete('/delete-user/{id_user}', [UserController::class, 'delete'])->name('user.destroy');
+
+//Menu
+Route::get('/menu', [MenuController::class, 'index'])->name('DaftarMenu');
+Route::get('/menu/create', [MenuController::class, 'create'])->name('CreateMenu');
+Route::post('/menu/create', [MenuController::class, 'store'])->name('StoreMenu');
+Route::get('menu/{menu}/edit', [MenuController::class, 'edit'])->name('EditMenu');
+Route::post('/menu/{menu}/update', [MenuController::class, 'update'])->name('UpdateMenu');
+Route::get('menu/{menu}/delete', [MenuController::class, 'destroy'])->name('DeleteMenu');

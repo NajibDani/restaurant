@@ -1,4 +1,4 @@
-@extends('layouts/contentNavbarLayout')
+php@extends('layouts/contentNavbarLayout')
 
 @section('title', ' List Role')
 @section('page-style')
