@@ -15,7 +15,7 @@
 
 <!-- Vendor Styles -->
 @yield('vendor-style')
-
+@stack('styles')
 
 <!-- Page Styles -->
 @yield('page-style')
